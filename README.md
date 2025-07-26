@@ -22,7 +22,7 @@ Token classification is a fundamental NLP task that involves assigning labels to
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.8+ (Currently does not support Python 3.13)
 - PyTorch 2.0+
 - Transformers library
 - PEFT (Parameter-Efficient Fine-tuning)
